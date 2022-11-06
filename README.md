@@ -1,10 +1,8 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi!+I'm+Vinicius;Welcome+to+my+Git!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=000000&center=true&width=435&lines=Hi!+I'm+Vinicius;Welcome+to+my+Git!" alt="Typing SVG" />
 <img src="https://github.com/zViniicius/zViniicius/blob/output/github-contribution-grid-snake.svg">
-<br><a href="https://www.linkedin.com/in/ViniiCaetano">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  
-</a></div>
+<br></div>
 
 
 
